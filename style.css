@@ -374,7 +374,7 @@ to we can overlap other image */
     /* hamare card ne pure project section ki 90% width khai hai */
     width: 90%;
     height: 550px;
-    background-image: url(/images/projects/project1.jpg);
+    background-image: url(project1.jpg);
     background-size: cover;
     /*apke space ko fill kerne ke liye vahi image bar bar aa jati hai  */
     /* background-repeat:no-repeat ; */
@@ -384,18 +384,18 @@ to we can overlap other image */
 #Project1{
     /* kyuki left right align kerna hai */
     
-    background-image:url(/images/projects/project1.jpg);
+    background-image:url(project1.jpg);
 }
 #Project2{
     margin-left: 120px;
-    background-image:url(/images/projects/project2.jpg);
+    background-image:url(project2.jpg);
 }
 #Project3{
-    background-image:url(/images/projects/project3.jpg);
+    background-image:url(project3.jpg);
 }
 #Project4{
     margin-left: 120px;
-    background-image:url(/images/projects/project4.jpg);
+    background-image:url(/project4.jpg);
 }
 /* ab muje card ko relative kerna padega aur jo content hai use absolute 
    kerna padega */
